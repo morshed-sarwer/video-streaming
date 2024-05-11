@@ -10,6 +10,10 @@ Docker and Docker Compose installed on your system.
   
     git clone https://github.com/morshed-sarwer/video-streaming.git
   
+  **Install Python Dependencies:**
+    
+    pip install -r requirements.txt
+  
   **Start the Docker Compose Environment:**
   
     docker-compose up -d
